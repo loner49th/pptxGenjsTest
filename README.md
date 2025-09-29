@@ -55,7 +55,7 @@ npm run txt2ppt
 
 ## サンプルワークフロー
 1. slides.mdを編集し、上記記法でスライド構成を記述
-2. pm run txt2pptを実行しdeck.sample.pptxを生成
+2. npm run txt2pptを実行しdeck.sample.pptxを生成
 3. PowerPointで開き、必要に応じて最終調整
 
 ## 開発メモ
